@@ -12,7 +12,7 @@ SHA256: ebd7e633e72ac0b5ba62b86fc9bfc464505a15f9fafe0ef6ff6b838d070d3450
 Section: Tweaks
 Description: Hide app labels on iOS 10.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/HideLabels10/index.html
+Depiction: http://tracksuits.github.io/repo/Files/HideLabels10/index.html
 Name: HideLabels10
 
 Package: com.dannyglover.keepbanners
@@ -29,7 +29,7 @@ SHA256: e94cadd5a87550775a0a7af9f901d39c56bd719e7ed6ea47dc90d051975add96
 Section: Tweaks
 Description: Keep notification banners on screen until dismissed.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/KeepBanners/index.html
+Depiction: http://tracksuits.github.io/repo/Files/KeepBanners/index.html
 Name: KeepBanners
 
 Package: com.dannyglover.messagesalwaysshowkeyboard
@@ -46,7 +46,7 @@ SHA256: 024d42c2dec32bd921fcf51a1cccdcb121da845904342ff609bf77a3abd428cd
 Section: Tweaks
 Description: Always show the keyboard when opening a chat in the Apple messages app.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/MessagesAlwaysShowKeyboard/index.html
+Depiction: http://tracksuits.github.io/repo/Files/MessagesAlwaysShowKeyboard/index.html
 Name: MessagesAlwaysShowKeyboard
 
 Package: com.dannyglover.nofolderbackground
@@ -63,7 +63,7 @@ SHA256: 1c27bef5ce89ba8ff8ef8e19a1d9aeff3b96f0e80692c97938007d0e5b655560
 Section: Tweaks
 Description: Removes folder backgrounds on iOS 10.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/NoFolderBackground/index.html
+Depiction: http://tracksuits.github.io/repo/Files/NoFolderBackground/index.html
 Name: NoFolderBackground
 
 Package: com.dannyglover.nolongpresskeys
@@ -81,7 +81,7 @@ Section: Tweaks
 Homepage: http://www.twitter.com/infusedreams
 Description: Disable the long press key actions on your iOS keyboard.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/NoLongPressKeys/index.html
+Depiction: http://tracksuits.github.io/repo/Files/NoLongPressKeys/index.html
 Name: NoLongPressKeys
 
 Package: com.dannyglover.nolowpoweralert
@@ -98,7 +98,7 @@ SHA256: 4d61e5517d1de6c2c043facce65619a024de3516775808fc43743fb80ea6258c
 Section: Tweaks
 Description: Disables tlow power alerts.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/NoLowPowerAlert/index.html
+Depiction: http://tracksuits.github.io/repo/Files/NoLowPowerAlert/index.html
 Name: NoLowPowerAlert
 
 Package: com.dannyglover.nosharereddit
@@ -115,7 +115,7 @@ SHA256: 53b17791e2c05d04cd5737b470371a127f268393030fa466481dc42455068a6a
 Section: Tweaks
 Description: Disable the Reddit share button in the Reddit app.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
+Depiction: http://tracksuits.github.io/repo/Files/NoShareReddit/index.html
 Name: NoShareReddit
 
 Package: com.dannyglover.nottoday10
@@ -132,6 +132,6 @@ SHA256: dfc858c8810dd0191a59f558706bf4b373125811e5f8db44e8cd31ca9cb81db8
 Section: Tweaks
 Description: Disables the today/spotlight screen in all areas of iOS 10.
 Author: Danny Glover
-Depiction: http://dannyglover.github.io/repo/Files/NotToday10/index.html
+Depiction: http://tracksuits.github.io/repo/Files/NotToday10/index.html
 Name: NotToday10
 
