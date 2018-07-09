@@ -1,0 +1,137 @@
+Package: com.dannyglover.hidelabels10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/HideLabels10/com.dannyglover.hidelabels10_1.0_iphoneos-arm.deb
+Size: 3032
+MD5sum: 7a942e390d10f788f9ad91474aba01e8
+SHA1: 7654e2f29ed03272c9525e4c04d316065ca1cb21
+SHA256: ebd7e633e72ac0b5ba62b86fc9bfc464505a15f9fafe0ef6ff6b838d070d3450
+Section: Tweaks
+Description: Hide app labels on iOS 10.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/HideLabels10/index.html
+Name: HideLabels10
+
+Package: com.dannyglover.keepbanners
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: Files/KeepBanners/com.dannyglover.keepbanners_1.0_iphoneos-arm.deb
+Size: 1532
+MD5sum: 720c2ac2fe2fb99389ae41553e617ef0
+SHA1: d7fb112bd36e8149113c4e1b1547290f601e896e
+SHA256: e94cadd5a87550775a0a7af9f901d39c56bd719e7ed6ea47dc90d051975add96
+Section: Tweaks
+Description: Keep notification banners on screen until dismissed.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/KeepBanners/index.html
+Name: KeepBanners
+
+Package: com.dannyglover.messagesalwaysshowkeyboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/MessagesAlwaysShowKeyboard/com.dannyglover.messagesalwaysshowkeyboard_1.0_iphoneos-arm.deb
+Size: 3354
+MD5sum: b77ee2fc28fd5912946a2f884d4c45cf
+SHA1: 7dc2ea87ee56a569ab118232d31aaef2f325ffd0
+SHA256: 024d42c2dec32bd921fcf51a1cccdcb121da845904342ff609bf77a3abd428cd
+Section: Tweaks
+Description: Always show the keyboard when opening a chat in the Apple messages app.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/MessagesAlwaysShowKeyboard/index.html
+Name: MessagesAlwaysShowKeyboard
+
+Package: com.dannyglover.nofolderbackground
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/NoFolderBackground/com.dannyglover.nofolderbackground_1.0_iphoneos-arm.deb
+Size: 3060
+MD5sum: d30bd26687fd01b9bd5a8b037d374d7a
+SHA1: 2435dedd62a5754d9b394addf66cb1b2f6d3a544
+SHA256: 1c27bef5ce89ba8ff8ef8e19a1d9aeff3b96f0e80692c97938007d0e5b655560
+Section: Tweaks
+Description: Removes folder backgrounds on iOS 10.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NoFolderBackground/index.html
+Name: NoFolderBackground
+
+Package: com.dannyglover.nolongpresskeys
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: Files/NoLongPressKeys/com.dannyglover.nolongpresskeys_0.0.1_iphoneos-arm.deb
+Size: 1578
+MD5sum: 32a05b144a025202dd2f59c4eb34b3ff
+SHA1: 1ab6b27435c4e951fef216a87dbd463b4300a772
+SHA256: 73015f2e57740a9b8f08373e75bd64a03c3918ac786c77e84cf47acf36a9b54a
+Section: Tweaks
+Homepage: http://www.twitter.com/infusedreams
+Description: Disable the long press key actions on your iOS keyboard.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NoLongPressKeys/index.html
+Name: NoLongPressKeys
+
+Package: com.dannyglover.nolowpoweralert
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/NoLowPowerAlert/com.dannyglover.nolowpoweralert_1.0_iphoneos-arm.deb
+Size: 3038
+MD5sum: 04d41a8d1513a25b9e3f398eff666427
+SHA1: 51484ffa46a355e1794eac102b9afffca475c7e5
+SHA256: 4d61e5517d1de6c2c043facce65619a024de3516775808fc43743fb80ea6258c
+Section: Tweaks
+Description: Disables tlow power alerts.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NoLowPowerAlert/index.html
+Name: NoLowPowerAlert
+
+Package: com.dannyglover.nosharereddit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/NoShareReddit/com.dannyglover.nosharereddit_1.0_iphoneos-arm.deb
+Size: 3352
+MD5sum: 4ffc7e49343a009468b8aa8a0f8b75b2
+SHA1: e9a56b86aa9a6b887fcb0cfbf8187ad2cb5aa59a
+SHA256: 53b17791e2c05d04cd5737b470371a127f268393030fa466481dc42455068a6a
+Section: Tweaks
+Description: Disable the Reddit share button in the Reddit app.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
+Name: NoShareReddit
+
+Package: com.dannyglover.nottoday10
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: Files/NotToday10/com.dannyglover.nottoday10_1.2.2_iphoneos-arm.deb
+Size: 24728
+MD5sum: 4b695231cc6ded75b28b88813fe1ef6b
+SHA1: fef7487b2e73c362a78074b3e729c95f0eaac6e4
+SHA256: dfc858c8810dd0191a59f558706bf4b373125811e5f8db44e8cd31ca9cb81db8
+Section: Tweaks
+Description: Disables the today/spotlight screen in all areas of iOS 10.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NotToday10/index.html
+Name: NotToday10
+
